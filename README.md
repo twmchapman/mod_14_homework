@@ -4,8 +4,6 @@ In this Challenge, you’ll assume the role of a financial advisor at one of the
 
 The Jupyter Notebook contains the following:
 
-* Implement an algorithmic trading strategy that uses machine learning to automate the trade decisions.
-
-* Adjust the input parameters to optimise the trading algorithm.
+* Implemented an algorithmic trading strategy that uses machine learning to automate the trade decisions.
 
 * Train a new machine learning model and compare its performance to that of a baseline model.
